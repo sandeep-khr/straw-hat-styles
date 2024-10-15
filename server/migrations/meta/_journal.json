@@ -15,6 +15,27 @@
       "when": 1728924229297,
       "tag": "0001_cool_puppet_master",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1728937747387,
+      "tag": "0002_soft_captain_cross",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1728938221467,
+      "tag": "0003_wild_baron_zemo",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1729005411075,
+      "tag": "0004_complete_newton_destine",
+      "breakpoints": true
     }
   ]
 }
